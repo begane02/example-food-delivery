@@ -58,12 +58,15 @@
 
 1. Pub/Sub
 
-![pub_sub](https://user-images.githubusercontent.com/122240511/211818867-9ead73b4-95de-44ab-b78a-f3e2eb13d8d6.png)
+![pub_sub](https://user-images.githubusercontent.com/122240511/212548653-750e277c-0ad9-4457-8e2c-688cb730a7a2.png)
+
 
 2. CQRS
 
-![cqrs](https://user-images.githubusercontent.com/122240511/211818891-090ab8c9-4bfc-4e96-90f2-aec99b8aa413.png)
+![cqrs](https://user-images.githubusercontent.com/122240511/212548659-55a98a46-e5f3-46da-81f6-e9ec795dec6f.png)
+
 
 3.Compensation / Correlation
 
-![com_corr](https://user-images.githubusercontent.com/122240511/211818916-ba0afe9a-5dfa-4a8d-bc98-096b8320e071.png)
+![Compensation](https://user-images.githubusercontent.com/122240511/212548668-a7264c1e-f59c-429d-9c01-3cd88c148631.png)
+
